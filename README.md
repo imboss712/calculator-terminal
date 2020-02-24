@@ -43,6 +43,3 @@ Calculator App developed in JavaScript and Runs in Terminal. It takes input from
 
 - [Shashi Kant Yadav](https://github.com/shashikant712)
 
-## Guided By ( through course ) :
-
-- [Andrew Mead](https://github.com/andrewjmead)
