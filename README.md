@@ -2,6 +2,8 @@
 
 Calculator App developed in JavaScript and Runs in Terminal. It takes input from terminal and shows output on terminal. It can perform Addition, Subtraction, Multiplication and Division on two or more inputs.
 
+### Demo : [CodeSandBox](https://codesandbox.io/s/calculator-terminal-h0npz)
+
 ## Commands :
 
 ###### ( Run commands in terminal )
