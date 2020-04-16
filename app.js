@@ -46,7 +46,7 @@ if (!process.argv[2]) {
       // Run in Terminal --->  node app.js command
 
       if (process.argv[2] === "help" || process.argv[2] === "command") {
-        console.log(chalk.white.bgBlack.bold("\n Commands ----> \n"));
+        console.log(chalk.white.bgBlack.bold("\n Commands --> \n"));
         console.log(chalk.white.inverse.bold("\n For Addition : "));
         console.log(chalk.green.inverse.bold(" node app.js add 2 3 4 \n"));
 
@@ -76,7 +76,7 @@ if (!process.argv[2]) {
       // Run in Terminal --->  node app.js author
       else if (process.argv[2] === "author") {
         console.log(
-          chalk.white.inverse.bold("\n Developer \n")
+          chalk.white.inverse.bold("\n Developer --> ")
         );
         console.log(chalk.magenta.inverse.bold("\n Shashi Kant Yadav - https://github.com/shashikant712 \n"));
       } else {
